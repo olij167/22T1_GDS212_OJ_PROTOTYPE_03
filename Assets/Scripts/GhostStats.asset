@@ -1,0 +1,376 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b981c5596d52d840bd96c3b4073f2c4, type: 3}
+  m_Name: GhostStats
+  m_EditorClassIdentifier: 
+  introTextList:
+  - Here Lies
+  - Here Rests
+  - Rest In Peace
+  - R.I.P
+  - In Memory of
+  - The Burial Place of
+  - The Resting Place of
+  - The Grave of
+  ghostFirstNameList:
+  - Sam
+  - John
+  - James
+  - Jack
+  - Jim
+  - Simon
+  - Greg
+  - Fred
+  - Dave
+  - Steve
+  - Todd
+  - Toby
+  - Oli
+  - Carl
+  - Klaus
+  - Jordan
+  - Melinda
+  - Kelly
+  - Barry
+  - Carson
+  - Mary
+  - Suzy
+  - Stacy
+  - Karen
+  - Lucy
+  - Linda
+  - Rose
+  - Helga
+  - Holly
+  - Molly
+  - Mindy
+  - Cindy
+  - Claudia
+  - Isabel
+  - Thomas
+  - Buddy
+  - Brandon
+  - Greta
+  - Patrick
+  - Guy
+  - Herbert
+  - Ted
+  - Tony
+  - Stanley
+  - Leslie
+  - Burt
+  - Ernie
+  - Scott
+  - Peter
+  - Patty
+  - Selma
+  - Sarah
+  - Borris
+  - Benson
+  - Tim
+  - Henry
+  - Eugene
+  - Gary
+  - Kevin
+  - Bob
+  - Paula
+  - Mandy
+  - Marsha
+  - Anita
+  - Amy
+  - Odina
+  - Olivia
+  - Patricia
+  - Jemima
+  - Jenny
+  - Jason
+  - Ricky
+  - Miranda
+  - Bronson
+  - Mike
+  - Franklin
+  - Horton
+  - Candice
+  - Janet
+  - Carl
+  - Karla
+  - Bruce
+  - Johnny
+  - Jimmy
+  - Donald
+  - Ronald
+  - Howard
+  - Wallace
+  - Alfred
+  - Egbert
+  - Joe
+  - Chloe
+  - Poppy
+  - Gertrude
+  - Samantha
+  - Brandy
+  - Sharon
+  - Mia
+  - Anna
+  - Lisa
+  - Teagan
+  - Frita
+  - May
+  - Drew
+  - Mary
+  - Lois
+  - Lucas
+  - Clarke
+  - Allen
+  - Steve
+  - Gordon
+  - Wendy
+  - Willow
+  - Nancy
+  - Cleo
+  - Eliza
+  - Brenda
+  - Brenton
+  - Vincent
+  - Slam
+  - Big
+  - Tiny
+  - Lucky
+  - Erol
+  - Pip
+  - James
+  - Ormond
+  - George
+  - Georgia
+  - Virgil
+  - Randy
+  - Randy
+  - Abel
+  - Stuart
+  ghostLastNameList:
+  - Smith
+  - Jones
+  - Jenkinson
+  - Cadogan
+  - Williams
+  - Johnson
+  - Roberts
+  - Attano
+  - Aquato
+  - Robinson
+  - Peters
+  - Jackson
+  - James
+  - Kim
+  - Brooke
+  - Morrison
+  - Beauchanon
+  - Hamilton
+  - Davies
+  - Dale
+  - Hunter
+  - Wilson
+  - Milton
+  - Coolman
+  - Parker
+  - Riley
+  - Samson
+  - Banks
+  - Turner
+  - Forks
+  - Eunice
+  - Winch
+  - Leary
+  - Cob
+  - Crisp
+  - Gregg
+  - Mena
+  - Rigby
+  - Roman
+  - Randal
+  - Harlen
+  - Arnold
+  - Shue
+  - Burt
+  - Layson
+  - Tyler
+  - Scott
+  - Minkov
+  - Day
+  - Hall
+  - Nejman
+  - Leemon
+  - Fung
+  - Franklins
+  - Funk
+  - Pugg
+  - Law
+  - Young
+  - Timms
+  - Orton
+  - Brent
+  - Kent
+  - Trent
+  - Bunk
+  - Dunk
+  - Poole
+  - Spare
+  - Gordon
+  - Reace
+  - Hunt
+  - Paul
+  - Powers
+  - Dip
+  - Sing
+  - Wallace
+  - Wells
+  - Orbert
+  - Jorgen
+  - Klean
+  - Thorn
+  - Nej
+  - Dinkster
+  - Man
+  - Guy
+  - X
+  - Wanda
+  - Shell
+  - Lewis
+  - Lastname
+  - Lastname
+  - Crinston
+  - Merl
+  - Jack
+  - Turnbull
+  - Simpson
+  - Black
+  - White
+  - North
+  - West
+  - South
+  - East
+  - Grey
+  - Greyson
+  - Frog
+  - Thumb
+  - Plum
+  - Bloom
+  - Bliss
+  - Twist
+  - Oje
+  jobAdjectiveList:
+  - Renowned
+  - Astute
+  - Master
+  - Experienced
+  - Humble
+  - Exquisite
+  - Mediocre
+  - Innovative
+  - Devoted
+  - Beloved
+  - Generous
+  - Passionate
+  - Dutiful
+  - Begruding
+  - Expert
+  - Unofficial
+  - Disgraced
+  - Aspiring
+  - Relentless
+  - Super
+  - Famous
+  - Infamous
+  - Frantic
+  - Ultra
+  - Ultimate
+  - Quintessential
+  - Accidental
+  - Eager
+  - Intense
+  - Reluctant
+  - Unintentional
+  - Proud
+  - Questionable
+  - Supreme
+  - Part-Time
+  - Accomplished
+  - Passable
+  - Unexceptional
+  - Tolerable
+  - Insignificant
+  - Insignificant
+  - Adequate
+  - Trivial
+  - Petty
+  - Trifling
+  - Exceptional
+  - Significant
+  - Unfit
+  - Excellent
+  - Failed
+  - Admirable
+  - Exemplary
+  - Astounding
+  - Crude
+  - First-Rate
+  - Second-Rate
+  - Notable
+  - Certified
+  - Unreliable
+  - Dubious
+  - Self-taught
+  - Refined
+  - Honest
+  - Incompetent
+  - Incompetent
+  identifiedCommentList:
+  - ... I remember!...
+  - ...Thank you for helping me!...
+  - ...I can finally rest...
+  - ...u da best...
+  - ...you saved me!...
+  - ...I remember who I am...
+  - ...I'm dead? Oh well...
+  - ...It all makes sense...
+  - ...I am at peace...
+  - ...I am so happy...
+  - ...It's all so clear...
+  - ...now I understand...
+  - ...I feel so free...
+  ghostJobList:
+  - {fileID: 11400000, guid: b1ecf0efdcd445d4c9b1030f7403ca6b, type: 2}
+  - {fileID: 11400000, guid: 45b18a168b2633046881be3459b94c3e, type: 2}
+  - {fileID: 11400000, guid: a8e167408a63f7b45bcd5b3cac8587cc, type: 2}
+  - {fileID: 11400000, guid: b90756c2529b6c043ad1af11fea77979, type: 2}
+  - {fileID: 11400000, guid: cf89c2428ea6344418a78621e2272e08, type: 2}
+  - {fileID: 11400000, guid: 5971770ea2f437a45a6e9264d07b3ee0, type: 2}
+  - {fileID: 11400000, guid: 8eeb2137a9656a046bdb50ec723744cd, type: 2}
+  - {fileID: 11400000, guid: 827606a3efef16141b1ec224ddc78ea3, type: 2}
+  - {fileID: 11400000, guid: 4c69ead7c364a5f448d660eeeeb3a01a, type: 2}
+  - {fileID: 11400000, guid: 4a64bc3b27fad404abf7c8a2b32d819a, type: 2}
+  - {fileID: 11400000, guid: a42500166f2a93c48b22205d75420e0a, type: 2}
+  - {fileID: 11400000, guid: 3e29c2920daf2b94ba77ac2e9d1fcb10, type: 2}
+  - {fileID: 11400000, guid: 1d5f6a8b0c8624e4fae4b1bedd2a2c40, type: 2}
+  - {fileID: 11400000, guid: cc478e28b892cff48bbe1b50414a9494, type: 2}
+  - {fileID: 11400000, guid: 6904371dd809d534f996b86f208a327c, type: 2}
+  - {fileID: 11400000, guid: a0e02db5832df37449e972398f49bae0, type: 2}
+  - {fileID: 11400000, guid: 5905aead1dfa080458fc3e097669f011, type: 2}
+  - {fileID: 11400000, guid: b0091b7e30da85f4e83c7a6548990230, type: 2}
+  - {fileID: 11400000, guid: bbcab8f9617e749489fefc9850f315e7, type: 2}
+  - {fileID: 11400000, guid: af679792fc7549846938206e3e242083, type: 2}
+  - {fileID: 11400000, guid: 31f03ec96844f1e4c830b65621e587a9, type: 2}
+  - {fileID: 11400000, guid: 4e0f75028fe1c3a4b9d253af97201438, type: 2}
+  ageMin: 30
+  ageMax: 101
+  birthYearMin: 1700
+  birthYearMax: 1900

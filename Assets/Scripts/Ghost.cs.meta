@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2918f3642dfef10498ed2f92fea874c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ghostVariables: {fileID: 11400000, guid: ab1225ae625d0da4a9615e71b6b9e112, type: 2}
+  - ghostJob: {instanceID: 0}
+  - generalComments: {fileID: 11400000, guid: cc773fb0b56269246afe1fc8d86bac0b, type: 2}
+  - ghostRelative: {instanceID: 0}
+  - ghostComment: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
